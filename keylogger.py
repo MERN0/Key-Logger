@@ -42,7 +42,7 @@ filemerge = filepath + extend
 
 # email function
 email_address = 'dummymerno@gmail.com'
-password = 'zdacycmpowueiuil'
+password = 'enter own password'
 
 to_addr = 'dummymerno@gmail.com'
 
